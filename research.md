@@ -18,7 +18,7 @@
   * _49NZ20071008-13-1_
   * CTD & HYD
 
-# Soutern Hemisphere
+# Southern Hemisphere
 
 ### traj_1110-1140_0001630734
   * _31DSCG96-1-70-1_
